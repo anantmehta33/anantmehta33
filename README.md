@@ -1,4 +1,5 @@
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![logo](https://github.com/anantmehta33/anantmehta33/assets/87894541/21ca93df-939f-4529-9993-029b2754431b)
+![logo](![September News](https://github.com/anantmehta33/anantmehta33/assets/87894541/46a43525-d2d3-44f3-8c42-55212a032bc2))
+
 <h1 align="center">Hi 👋, I'm Anant Mehta</h1>
 <h3 align="center">A Kaggle certified Machine Learner</h3>
 
