@@ -1,14 +1,14 @@
 $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$![logo](https://github.com/anantmehta33/anantmehta33/blob/main/Banner.png)
-<h1 align="center">Hi 👋, I'm Anant Mehta</h1>
+<h1 align="center">Hello 👋, I'm Anant Mehta</h1>
 <h3 align="center">A Dedicated Tech Fanatic</h3>
 <img align = "right" alt="coding" width="400" src="https://media.tenor.com/Ug6cbVA1ZsMAAAAC/developer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anantmehta33&label=Profile%20views&color=0e75b6&style=flat" alt="anantmehta33" /> </p>
 
 - 🔭 I’m currently working on **AI/DL/ML/NLP/CV**
 
-- 👯 I’m looking to collaborate on **NLP**
+- 👯 I’m looking to collaborate on **Unique Projects**
 
-- 🤝 I’m looking for help with **Web Development**
+- 🤝 I’m looking for help with **Backend Web Development**
 
 - 📫 How to reach me **amehta1_be20@thapar.edu**
 
