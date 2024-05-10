@@ -1,4 +1,4 @@
-$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$![logo](https://github.com/anantmehta33/anantmehta33/blob/main/Banner.png)
+$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$![logo](https://github.com/anantmehta33/anantmehta33/blob/main/New-York.jpeg)
 <h1 align="center">Hello 👋, I'm Anant Mehta</h1>
 <h3 align="center">A Dedicated Tech Fanatic</h3>
 <img align = "right" alt="coding" width="400" src="https://media.tenor.com/Ug6cbVA1ZsMAAAAC/developer.gif">
