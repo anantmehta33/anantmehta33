@@ -4,13 +4,13 @@ $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$![logo](https://github.com/a
 <img align = "right" alt="coding" width="400" src="https://media.tenor.com/Ug6cbVA1ZsMAAAAC/developer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anantmehta33&label=Profile%20views&color=0e75b6&style=flat" alt="anantmehta33" /> </p>
 
-- 🔭 I’m currently working on **AI/DL/ML/NLP/CV**
+- 🔭 I’m currently working on **Machine Learning | Deep Learning**
 
-- 👯 I’m looking to collaborate on **Unique Projects**
+- 👯 I’m looking to collaborate on **Generative A.I. Projects**
 
-- 🤝 I’m looking for help with **Backend Web Development**
+- 🤝 I’m looking forward to learn **Optimization Techniques in DL**
 
-- 📫 How to reach me **amehta1_be20@thapar.edu**
+- 📫 How to reach me **anant_mehta@tamu.edu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
