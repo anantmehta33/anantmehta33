@@ -1,4 +1,4 @@
-$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$![Screenshot 2024-12-25 at 6 30 00 PM](https://github.com/user-attachments/assets/0ea44bb3-1f73-46df-8678-964886f17698)
+$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$![Screenshot 2024-12-25 at 6 32 56 PM](https://github.com/user-attachments/assets/a47f2689-674a-4434-8cda-2c60bcec8281)
 <h1 align="center">Hello 👋, I'm Anant Mehta</h1>
 <h3 align="center">A Dedicated Tech Fanatic</h3>
 <img align = "right" alt="coding" width="400" src="https://media.tenor.com/Ug6cbVA1ZsMAAAAC/developer.gif">
@@ -11,6 +11,7 @@ $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$![Screenshot 2024-12-25 at 6
 - 🤝 I’m looking forward to learn **Optimization Techniques in DL**
 
 - 📫 How to reach me **anant_mehta@tamu.edu**
+
 
 
 <h3 align="left">Connect with me:</h3>
