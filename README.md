@@ -1,6 +1,6 @@
 $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$![Screenshot 2024-12-25 at 6 32 56 PM](https://github.com/user-attachments/assets/a47f2689-674a-4434-8cda-2c60bcec8281)
 <h1 align="center">Hello 👋, I'm Anant Mehta</h1>
-<h3 align="center">A Dedicated Tech Fanatic</h3>
+<h3 align="center">I do Machine Unlearning in the era of Machine Learning !!</h3>
 <img align = "right" alt="coding" width="400" src="https://media.tenor.com/Ug6cbVA1ZsMAAAAC/developer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anantmehta33&label=Profile%20views&color=0e75b6&style=flat" alt="anantmehta33" /> </p>
 
