@@ -31,6 +31,6 @@ $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$![Screenshot 2024-12-25 at 6
 
 <p> Please stop the Snake !! </p>
 
-![github-contribution-grid-snake](https://github.com/user-attachments/assets/be692bf2-71c8-4d33-aa9f-3580590b65b6)<svg viewBox="-16 -32 880 192" width="880" height="192" xmlns="http://www.w3.org/2000/svg"><style> 
+![github-contribution-grid-snake](https://github.com/user-attachments/assets/be692bf2-71c8-4d33-aa9f-3580590b65b6)<svg viewBox="-16 -32 880 192" width="880" height="192" xmlns="http://www.w3.org/2000/svg">
 
 
