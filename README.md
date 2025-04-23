@@ -1,6 +1,6 @@
 <table>
   <tr>
-    <td><img src="https://cdn8.openculture.com/2018/12/17222146/segawa-ukiyoe-gif-great-wave.gif" width="300"/></td>
+    <td><img src="[https://cdn8.openculture.com/2018/12/17222146/segawa-ukiyoe-gif-great-wave.gif](https://cdn8.openculture.com/2018/12/17221710/5c189086edec4913458546.gif)" width="300"/></td>
     <td><img src="https://cdn8.openculture.com/2018/12/17214538/animated-ukiyoe-gif-2.gif" width="300"/></td>
   </tr>
   <tr>
