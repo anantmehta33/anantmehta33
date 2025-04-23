@@ -13,7 +13,7 @@
 
 - 💻 I’m looking to collaborate on **Foundation Model Training**
 
-- 🤝 I’m looking enhance my skills in **Stochastic and Compositional Optimization in ML**
+- 🤝 I’m looking to enhance my skills in **Stochastic and Compositional Optimization in ML**
 
 - 📫 How to reach me **anant_mehta@tamu.edu**
 
