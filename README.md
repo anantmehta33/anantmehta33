@@ -4,11 +4,11 @@ $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$![Screenshot 2024-12-25 at 6
 <img align = "right" alt="coding" width="400" src="https://media.tenor.com/Ug6cbVA1ZsMAAAAC/developer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anantmehta33&label=Profile%20views&color=0e75b6&style=flat" alt="anantmehta33" /> </p>
 
-- 🔭 I’m currently working on **Machine Learning | Deep Learning**
+- 🔭 I’m currently working on **Deep Learning**
 
-- 👯 I’m looking to collaborate on **Generative A.I. Projects**
+- 💻 I’m looking to collaborate on **Foundation Model training**
 
-- 🤝 I’m looking forward to learn **Optimization Techniques in DL**
+- 🤝 I’m looking forward to learn **Stochastic Optimization**
 
 - 📫 How to reach me **anant_mehta@tamu.edu**
 
