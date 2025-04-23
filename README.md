@@ -1,9 +1,14 @@
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-  <img src="https://cdn8.openculture.com/2018/12/17222146/segawa-ukiyoe-gif-great-wave.gif" width="300" height="225" style="border-radius: 10px;" />
-  <img src="https://cdn8.openculture.com/2018/12/17214538/animated-ukiyoe-gif-2.gif" width="300" height="225" style="border-radius: 10px;" />
-  <img src="https://cdn8.openculture.com/2018/12/17221710/5c189086edec4913458546.gif" width="300" height="225" style="border-radius: 10px;" />
-  <img src="https://cdn8.openculture.com/2018/12/17214111/animated-ukiyoe-gif-1.gif" width="300" height="225" style="border-radius: 10px;" />
-</div>
+<table>
+  <tr>
+    <td><img src="https://cdn8.openculture.com/2018/12/17222146/segawa-ukiyoe-gif-great-wave.gif" width="300"/></td>
+    <td><img src="https://cdn8.openculture.com/2018/12/17214538/animated-ukiyoe-gif-2.gif" width="300"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn8.openculture.com/2018/12/17221710/5c189086edec4913458546.gif" width="300"/></td>
+    <td><img src="https://cdn8.openculture.com/2018/12/17214111/animated-ukiyoe-gif-1.gif" width="300"/></td>
+  </tr>
+</table>
+
 
 <h1 align="center">Hello 👋, I'm Anant Mehta</h1>
 <h3 align="center">I am currently working on Self-Supervised Bimodal Representation Learning !!</h3>
