@@ -1,9 +1,5 @@
 <table>
   <tr>
-    <td><img src="https://cdn8.openculture.com/2018/12/17222146/segawa-ukiyoe-gif-great-wave.gif" width="300"/></td>
-    <td><img src="https://cdn8.openculture.com/2018/12/17214538/animated-ukiyoe-gif-2.gif" width="300"/></td>
-  </tr>
-  <tr>
     <td><img src="https://cdn8.openculture.com/2018/12/17221710/5c189086edec4913458546.gif" width="300"/></td>
     <td><img src="https://cdn8.openculture.com/2018/12/17214111/animated-ukiyoe-gif-1.gif" width="300"/></td>
   </tr>
@@ -31,8 +27,8 @@
 <p align="left"> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg" alt="Linux" width="70" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a><a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 <h3 align="left">Gameday Clicks:</h3>
 <div align="center">
-  <img src="Images/img2.jpg" width="500" style="margin-right: 20px; background-color: white; padding: 10px; border-radius: 10px;" />
-  <img src="Images/img3.jpg" width="500" style="background-color: white; padding: 10px; border-radius: 10px;" />
+  <img src="Images/img2.jpg" width="400" style="margin-right: 20px; background-color: white; padding: 10px; border-radius: 10px;" />
+  <img src="Images/img3.jpg" width="400" style="background-color: white; padding: 10px; border-radius: 10px;" />
 </div>
 
 
