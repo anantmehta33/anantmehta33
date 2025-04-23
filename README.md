@@ -1,7 +1,7 @@
 <table>
   <tr>
-    <td><img src="https://cdn8.openculture.com/2018/12/17214538/animated-ukiyoe-gif-2.gif" width="450"/></td>
-    <td><img src="https://cdn8.openculture.com/2018/12/17214111/animated-ukiyoe-gif-1.gif" width="450"/></td>
+    <td><img src="https://cdn8.openculture.com/2018/12/17214538/animated-ukiyoe-gif-2.gif" width="480"/></td>
+    <td><img src="https://cdn8.openculture.com/2018/12/17214111/animated-ukiyoe-gif-1.gif" width="480"/></td>
   </tr>
 </table>
 
